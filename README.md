@@ -5,3 +5,4 @@ My name is **Joel Shrader**. I have an Engineering Degree from [The University o
 - [Home](README.md)
 - [Growth Mindset](Growth_Mindset.md)
 - [Learning Markdown](Learning_Markdown.md)
+- [Coder's Computer](Coders_Computer.md)
