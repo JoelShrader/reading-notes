@@ -7,3 +7,4 @@ In the repository you can create markdown (.md) files. README.md is a basic one 
 - [Home](README.md)
 - [Growth Mindset](Growth_Mindset.md)
 - [Learning Markdown](Learning_Markdown.md)
+- [Coder's Computer](Coders_Computer.md)
