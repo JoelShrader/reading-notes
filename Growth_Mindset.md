@@ -5,7 +5,6 @@ Having a **Growth Mindset** is described as effectively believing that you can t
 1. Look at challenges as learning opportunities
 2. Focus on the task at hand
 3. Take helpful criticism and adapt
-4. Build up others when they succeed
 
 # Site Navigation 
 - [Home](README.md)
