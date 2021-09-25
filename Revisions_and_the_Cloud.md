@@ -3,7 +3,7 @@ An alternative to making changes directly on GitHub is copying or 'cloning' a re
 
 ## Editing code locally
 1. On GitHub, select the wanted repository and click the green 'Code' button. Then click on 'Clone'.
-2. Open the Terminal, then navigate to the directory you want to clone the repository to, such as `cd /Desktop`
+2. Open the Terminal, then navigate to the directory you want to clone the repository to, such as `cd Desktop`
 3. Copy the .git link in the Code dropdown menu, then put `git clone` followed by the copied link. This will make a copy of the repository in the location you specified earlier
 4. Use `cd` followed by the name of your new directory to navigate into it, then use `code .` to open VS Code referencing the files.
 5. Edit and otherwise change files through VS Code
