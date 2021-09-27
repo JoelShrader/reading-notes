@@ -20,3 +20,4 @@ An alternative to making changes directly on GitHub is copying or 'cloning' a re
 - [Coder's Computer](Coders_Computer.md)
 - [Revisions and the Cloud](Revisions_and_the_Cloud.md)
 - [Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
+- [Design Web Pages with CSS](Design_Web_Pages_with_CSS.md)
