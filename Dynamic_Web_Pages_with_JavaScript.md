@@ -77,3 +77,4 @@ will output `641` because it converts all subsequent numbers to strings, so be c
 - [Design Web Pages with CSS](Design_Web_Pages_with_CSS.md)
 - [Dynamic Web Pages with JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
 - [Programming with JavaScript](Programming_with_JavaScript.md)
+- [Operators and Loops](Operators_and_Loops.md)
