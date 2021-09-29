@@ -59,3 +59,4 @@ The meaning of a piece of code. Something like how `<p>` defines paragraphs and 
 - [Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
 - [Design Web Pages with CSS](Design_Web_Pages_with_CSS.md)
 - [Dynamic Web Pages with JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
+- [Programming with JavaScript](Programming_with_JavaScript.md)

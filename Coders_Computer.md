@@ -48,3 +48,4 @@ Everything is considred a file under Linux, but the extensions can be omitted
 - [Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
 - [Design Web Pages with CSS](Design_Web_Pages_with_CSS.md)
 - [Dynamic Web Pages with JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
+- [Programming with JavaScript](Programming_with_JavaScript.md)
