@@ -48,3 +48,4 @@ There are a myriad different ways to specify a color, such as a HEX value, RGB v
 - [Revisions and the Cloud](Revisions_and_the_Cloud.md)
 - [Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
 - [Design Web Pages with CSS](Design_Web_Pages_with_CSS.md)
+- [Dynamic Web Pages with JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
