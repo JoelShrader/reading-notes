@@ -15,7 +15,7 @@ Variabiles must be identified with unique names in order to not overwrite values
 
 An `=` is an 'assignment' operator, meaning it gives the value to the variable.  To get 'equal to' you use `==` instead. For example
 
-`x = x + 5`
+> `x = x + 5`
 
 makes no sense algebraically, but in JavaScript it would take the value you previously gave `x` and add `5` to it, then assign this new value as the value of `x` from then on.
 
@@ -67,3 +67,12 @@ will output `101` because it adds up to `10` then tacks on the string `'1'` to t
 
 will output `641` because it converts all subsequent numbers to strings, so be careful.
 
+# Site Navigation 
+- [Home](README.md)
+- [Growth Mindset](Growth_Mindset.md)
+- [Learning Markdown](Learning_Markdown.md)
+- [Coder's Computer](Coders_Computer.md)
+- [Revisions and the Cloud](Revisions_and_the_Cloud.md)
+- [Structure Web Pages with HTML](Structure_Web_Pages_with_HTML.md)
+- [Design Web Pages with CSS](Design_Web_Pages_with_CSS.md)
+- [Dynamic Web Pages with JavaScript](Dynamic_Web_Pages_with_JavaScript.md)
